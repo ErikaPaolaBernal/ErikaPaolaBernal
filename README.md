@@ -4,3 +4,4 @@
 - 💡  I have knowledge in Machine Learning and Artificial Intelligent, but also, I completed a Graduate Specialization in Finance.
 - 🔥 Interesting in Modelling Methodologies in Financial Risk Management applying Machine Learning techniques.
 
+
