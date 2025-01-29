@@ -1,8 +1,6 @@
-## Hi there 👋 This is Erika...
+👋 Hi, I am Erika!
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently in class ...
-
+- 🔭   I’m a passionate person who likes technology and coding.
+- 💡  I have knowledge in Machine Learning and Artificial Intelligent, but also, I completed a Graduate Specialization in Finance.
+- 🔥 Interesting in Modelling Methodologies in Financial Risk Management applying Machine Learning techniques.
 
